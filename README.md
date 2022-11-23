@@ -79,8 +79,8 @@ This implies that the number of likes on a YouTube video has not changed importa
 * This indicates that comments may be more important to the trending algorithm in 2022 than in 2020 or that videos that encourage users to engage further with their content are pushed 
 
 How have the views, likes and comments changed between September 2020 and September 2022 for trending videos?
-Overall, video views on trending videos have increased and so have comments but likes have stayed at a similar rate.
-This implies that views and comments have gone up in importance in relation to the algorithm whereas likes have stayed the same.
+* Overall, video views on trending videos have increased and so have comments but likes have stayed at a similar rate.
+* This implies that views and comments have gone up in importance in relation to the algorithm whereas likes have stayed the same.
 
 ## Title Variations
 
