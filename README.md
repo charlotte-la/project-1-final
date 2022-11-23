@@ -20,5 +20,5 @@ The dataset includes months of data on daily trending YouTube videos with up to 
 
 I chose to use the GB dataset as well as comparing two of the months from the data set - Septemeber 2020 and September 2022. Three datasets were created one of each month and one combined. The dataset was cleaned by deleting duplicates so that the videos were only shown on the first day that they were trnding.
 
-## 
+## Views, Likes and Comments
 
