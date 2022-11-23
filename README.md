@@ -84,6 +84,72 @@ How have the views, likes and comments changed between September 2020 and Septem
 
 ## Title Variations
 
+Capital Letters
+
+![image](https://user-images.githubusercontent.com/86980650/203626738-aa57422c-1853-4a50-9d64-0f335b582ba8.png)
+* Over 50% of videos that trend on YouTube contains word capitalization. This could mean that the whole title is capitalized. 
+* Having capitals in your title could be more eye-catching to viewers leading to more engagement and therefore could aid in the process of becoming a trending video 
+
+Title Length
+
+![image](https://user-images.githubusercontent.com/86980650/203626871-09b8ec14-68f1-463d-98ed-430902f9a78e.png)
+This chart shows that although there is a lot of variation in views compared to title length, videos with more views appear to have a medium length title.
+
+What are the different variations in video titles of trending videos?
+* Key words, capital letters and title length are three was that titles can vary. These variations can attract different types of views to their videos.
+* There is variation in titles of trending videos on YouTube however, although they appear to be a factor in the algorithm there is no clear evidence as to how.  
+
+## The Channels with the Most Trending Videos
+
+2020
+![image](https://user-images.githubusercontent.com/86980650/203627048-a9781525-a8dd-41ca-b947-8bc7a2c0fae7.png)
+
+2022
+![image](https://user-images.githubusercontent.com/86980650/203627082-32bcbafb-ab6a-4e98-bac6-3e9ec6e36162.png)
+
+![image](https://user-images.githubusercontent.com/86980650/203627102-331d1cbf-8878-4cdf-956b-9e6479b3a04a.png)
+
+Trending channels in the UK are heavily centered around sports and current events. These are the only channels that are on both trending lists. 
+Although maybe common sense, the channels that trend in 2022 are relevant to the current events in that time e.g., the royal family.
+
+## Publishing Day
+
+2020
+![image](https://user-images.githubusercontent.com/86980650/203627228-7ba6a919-3fd1-4558-bed3-ee165d62eb0f.png)
+
+2022
+![image](https://user-images.githubusercontent.com/86980650/203627247-8865ab8c-aef7-4a18-b810-92d870a6609b.png)
+
+Compared to 2020 in 2022 Thursday was the most common publishing day that led to a trending video, whereas in 2020 this was the least common
+
+Is there a difference in publishing day of trending videos between September 2020 and September 2022?
+* Compared to 2020 in 2022 Thursday was the most common publishing day that led to a trending video, whereas in 2020 this was the least common
+* Tuesday, which was the most popular posting day in 2020 is still an important day in 2022 as it only fell one place
+* This does imply that the day a video is published does affect the algorithm however, it does change overtime and therefore creators shouldn’t get comfortable. 
+
+## Conlcusions
+
+* Views and comments have gone up in importance in relation to the algorithm whereas likes have stayed the same.
+* There is variation in titles of trending videos on YouTube however, although they appear to be a factor in the algorithm there is no clear evidence as to how.  
+* The only channels that trended in the top 10 in both 2020 and 2022 were sports channels. Implying that creators can find it hard to stay consistently trending as trending channels in the UK are heavily centered around sports and current events
+* The day a video is published is important in the algorithm however, it does change overtime and therefore creators shouldn’t get comfortable. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
